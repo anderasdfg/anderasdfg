@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <img align="center" alt="anderasdfg's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anderasdfg&show_icons=true&hide_border=true&theme=buefy" />  
+  <img align="center" alt="anderasdfg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anderasdfg&show_icons=true&hide_border=true&theme=buefy" />  
 </div>
 
 #### Connect with me:
