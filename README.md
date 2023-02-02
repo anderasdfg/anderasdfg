@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Anderley 🐣</h1>
 
-<p align="center">Student, developer and tech lover❤️!</p>
+<p align="center">Software Engineer bachelor developer and tech lover❤️!</p>
 
 <br />
 <div align="center">
