@@ -1,16 +1,10 @@
-<!-- Encabezado con un GIF o imagen -->
-<h1 align="center">¡Hola! 👋 Soy Anderley</h1>
-<h3 align="center">Frontend Developer en Lima/Perú 📍</h3>
+### 👋 Hola! Soy Anderley
 
-<p align="center">
-  <img src="https://i.ibb.co/B2nP8rYN/pixel-pic.png" alt="pixel-ander" width="100"/>
-</p>
-
----
+**Frontend Developer** con +4 años con una gran pasión por crear experiencias de usuario interactivas, atractivas y accesibles. Disfruto convirtiendo ideas y diseños complejos en código limpio, escalable y eficiente.
 
 ### 👩‍💻 Sobre Mí
 
-Soy una desarrolladora Frontend con una gran pasión por crear experiencias de usuario interactivas, atractivas y accesibles. Disfruto convirtiendo ideas y diseños complejos en código limpio, escalable y eficiente.
+Soy una desarrolladora Frontend 
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Mobile** para expandir mis habilidades.
 - 💬 Pregúntame sobre **JavaScript, React, CSS y diseño de interfaces**.
